@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+<hr> tag is for deviding themathicaly different sections (its is typicaly rendered as a horizontal rule(line))
+<sup> is for supertext (small on the top)
+<sub> is for subtext (small on the botton)
+<s> is for strikethrough (crossed out text)
+do not use <strike>, it is obsoletie
+mdn is good
