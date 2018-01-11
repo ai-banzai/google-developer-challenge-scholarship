@@ -1,1 +1,45 @@
-/* add your CSS here */
+body {
+
+}
+.card {
+    border: 5px #0a97c4 groove;
+    width: 320px;
+    background: #914d38;
+  /* #0daed8 */
+}
+.name {
+  padding: 5px;
+  font-family: serif;
+  text-transform: uppercase;
+  letter-spacing: 1em;
+  text-align: center;
+  font-size: 32px;
+  height: 32px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+.image {
+  padding: 10px
+}
+
+.fact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.list {
+  list-style: none;
+}
+
+.information {
+  /* border: 5px #0a97c4  dashed; */
+  color: blanchedalmond;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  padding: 10px;
+  background-image: url("bg2.png");
+  /* background: linear-gradient(to top, rgba(255,0,0,0), rgba(145, 77, 56, 1)); */
+}
